@@ -92,7 +92,7 @@ class WeatherSearchedVC: UIViewController {
         backBtn.layer.shadowColor = UIColor.gray.cgColor
         backBtn.layer.shadowRadius = 5
         backBtn.layer.shadowOffset = CGSize(width: 5, height: 0)
-         
+          
         shareBtn.layer.cornerRadius = shareBtn.frame.size.width / 2
         shareBtn.layer.borderWidth = 2;
         shareBtn.layer.borderColor = UIColor.white.cgColor

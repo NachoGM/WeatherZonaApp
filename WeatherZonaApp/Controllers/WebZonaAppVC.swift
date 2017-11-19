@@ -7,7 +7,7 @@
 //
 
 import UIKit
- 
+  
 class WebZonaAppVC: UIViewController {
 
     // MARKS: Declare Outlet

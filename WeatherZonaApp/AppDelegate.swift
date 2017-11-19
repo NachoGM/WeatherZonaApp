@@ -16,7 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, CAAnimationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-         
+    
         // First Launch Recognition
         let launchedBefore = UserDefaults.standard.bool(forKey: "launchedBefore")
         

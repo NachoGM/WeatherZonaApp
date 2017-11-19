@@ -13,7 +13,7 @@ class Instructions: UIViewController {
     
     // Declare var SwiftyOnboard
     var swiftyOnboard: SwiftyOnboard!
-     
+      
     let colors:[UIColor] = [#colorLiteral(red: 0.9980840087, green: 0.3723873496, blue: 0.4952875376, alpha: 1),#colorLiteral(red: 0.2666860223, green: 0.5116362572, blue: 1, alpha: 1),#colorLiteral(red: 0.9607843161, green: 0.7058823705, blue: 0.200000003, alpha: 1),#colorLiteral(red: 0.4666666687, green: 0.7647058964, blue: 0.2666666806, alpha: 1)]
     var titleArray: [String] = ["Welcome to MyWeatherApp!", "Check the weather", "Check the cities as well", "Say something positive"]
     var subTitleArray: [String] = ["This app is an assesstment developed by Nacho González Miro", "I used weatherunderground API in order to work with the app", "I spend all the weekend doing this, give me a good feedback!", "I spend all the weekend doing this, give me a good feedback!"]

@@ -134,7 +134,7 @@ class AllTemperatuerCheckedVC: UIViewController, UICollectionViewDelegate,UIColl
          
     }
      
-    
+     
     // MARKS: Display Button Actions
     @IBAction func back(_ sender: Any) {
 

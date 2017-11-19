@@ -61,7 +61,7 @@ class HomeVC: UIViewController, UISearchBarDelegate, CLLocationManagerDelegate {
 
     // MARKS: Declare var
     var animationPerformedOnce = false
-     
+      
 
     override func viewDidLoad() {
         super.viewDidLoad()
